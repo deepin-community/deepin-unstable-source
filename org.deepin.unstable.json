@@ -1,0 +1,17 @@
+{
+    "magic": "dsg.config.meta",
+    "version": "1.0",
+    "contents": {
+        "updateUnstable": {
+            "value": "Enabled",
+            "serial": 0,
+            "flags": ["globel"],
+            "name": "update_unstable",
+            "name[zh_CN]": "内测源配置",
+            "description[zh_CN]": "提供内测源更新配置",
+            "description": "",
+            "permissions": "readwrite",
+            "visibility": "private"
+        }    
+    }
+}

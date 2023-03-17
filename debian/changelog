@@ -1,5 +1,36 @@
-template-repository (1.0-1) unstable; urgency=medium
+deepin-unstable-source (0.0.6-2) unstable; urgency=medium
 
-  * Initial release
+  * add v23 testing source.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- LiChengGang <lichenggang@uniontech.com>  Fri, 17 Mar 2023 14:32:36 +0800
+
+deepin-unstable-source (0.0.5-2) unstable; urgency=medium
+
+  * update json
+
+ -- LiChengGang <deepin@deepin-PC>  Thu, 01 Sep 2022 16:30:56 +0800
+
+deepin-unstable-source (0.0.4-2) unstable; urgency=medium
+
+  * add org.deepin.unstalbe.json.
+
+ -- LiChengGang <deepin@deepin-PC>  Thu, 01 Sep 2022 16:30:56 +0800
+
+deepin-unstable-source (0.0.3-2) unstable; urgency=medium
+
+  * add postinst
+
+ -- LiChengGang <lichenggang@uniontech.com>  Wed, 06 Jul 2022 14:58:02 +0800
+
+deepin-unstable-source (0.0.2-1) unstable; urgency=medium
+
+  * add postrm  
+
+ -- LiChengGang <lichenggang@uniontech.com>  Mon, 04 Jul 2022 09:35:01 +0800
+
+deepin-unstable-source (0.0.1-1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * 
+
+ -- LiChengGang <lichenggang@uniontech.com>  Wed, 22 Jun 2022 14:02:11 +0800
