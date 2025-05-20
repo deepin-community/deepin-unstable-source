@@ -1,3 +1,9 @@
+deepin-unstable-source (0.0.7-21) unstable; urgency=medium
+
+  * add v25 testing source.
+
+ -- lichenggang <lichenggang@deepin.org>  Tue, 20 May 2025 10:26:58 +0800
+
 deepin-unstable-source (0.0.6-2) unstable; urgency=medium
 
   * add v23 testing source.
