@@ -4,3 +4,4 @@ then
 	rm /etc/apt/sources.list.d/deepin-unstable-source.list
 fi
 
+#DEBHELPER#
