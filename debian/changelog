@@ -1,3 +1,31 @@
+deepin-unstable-source (0.0.9) unstable; urgency=medium
+
+  [ lichenggang ]
+  * add hwe-25 sourcess.
+
+  [ Tianyu Chen ]
+  * Switch to 3.0 (native)
+    Previously was: 3.0 (quilt)
+  * Use debhelper-compat 13
+  * Upgrade Standards-Version to 4.6.0
+  * Add ${misc:Depends} to Depends:
+  * Add d/*.lintian-overrides
+  * d/deepin-unstable-source.postrm: Fix shebang
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Mon, 11 Aug 2025 14:45:12 +0800
+
+deepin-unstable-source (0.0.8-1) unstable; urgency=medium
+
+  * update testing sources.
+
+ -- lichenggang <lichenggang@deepin.org>  Wed, 21 May 2025 14:26:19 +0800
+
+deepin-unstable-source (0.0.7-21) unstable; urgency=medium
+
+  * add v25 testing source.
+
+ -- lichenggang <lichenggang@deepin.org>  Tue, 20 May 2025 10:26:58 +0800
+
 deepin-unstable-source (0.0.6-2) unstable; urgency=medium
 
   * add v23 testing source.
@@ -24,13 +52,13 @@ deepin-unstable-source (0.0.3-2) unstable; urgency=medium
 
 deepin-unstable-source (0.0.2-1) unstable; urgency=medium
 
-  * add postrm  
+  * add postrm
 
  -- LiChengGang <lichenggang@uniontech.com>  Mon, 04 Jul 2022 09:35:01 +0800
 
 deepin-unstable-source (0.0.1-1) unstable; urgency=medium
 
   * Non-maintainer upload.
-  * 
+  *
 
  -- LiChengGang <lichenggang@uniontech.com>  Wed, 22 Jun 2022 14:02:11 +0800

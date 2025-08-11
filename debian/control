@@ -1,12 +1,17 @@
 Source: deepin-unstable-source
 Section: metapackages
 Priority: optional
-Build-Depends: debhelper
-Maintainer: Deepin SYS Maintainers <lichenggang@uniontech.com> 
-Standards-Version: 4.1.3
+Build-Depends: debhelper-compat (= 13)
+Maintainer: Deepin SYS Maintainers <lichenggang@uniontech.com>
+Standards-Version: 4.6.0
 Homepage: https://www.deepin.org
 
 Package: deepin-unstable-source
 Architecture: all
-Depends: deepin-desktop-base | deepin-desktop-server
+Depends: deepin-desktop-base | deepin-desktop-server, ${misc:Depends}
 Description: Deepin unstable source
+
+Package: deepin-unstable-hwe-source
+Architecture: all
+Depends: deepin-desktop-base | deepin-desktop-server, ${misc:Depends}
+Description: Deepin unstable hwe source
