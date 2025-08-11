@@ -10,3 +10,9 @@ Package: deepin-unstable-source
 Architecture: all
 Depends: deepin-desktop-base | deepin-desktop-server
 Description: Deepin unstable source
+
+
+Package: deepin-unstable-hwe-source
+Architecture: all
+Depends: deepin-desktop-base | deepin-desktop-server
+Description: Deepin unstable source
