@@ -9,8 +9,10 @@ deepin-unstable-source (0.0.9) unstable; urgency=medium
   * Use debhelper-compat 13
   * Upgrade Standards-Version to 4.6.0
   * Add ${misc:Depends} to Depends:
+  * Add d/*.lintian-overrides
+  * d/deepin-unstable-source.postrm: Fix shebang
 
- -- Tianyu Chen <sweetyfish@deepin.org>  Mon, 11 Aug 2025 14:36:24 +0800
+ -- Tianyu Chen <sweetyfish@deepin.org>  Mon, 11 Aug 2025 14:45:12 +0800
 
 deepin-unstable-source (0.0.8-1) unstable; urgency=medium
 
